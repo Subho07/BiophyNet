@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 20 20:09:28 2020
-
-@author: Subhadip_CSRE
-"""
+###################################
+# written by: Subhadip Dey
+# MRSLab, CSRE, Indian Institute of Technology, Bombay
+# contact: sdey2307@gmail.com
+# citing article: "S. Dey, U. Chaudhuri, D. Mandal, A. Bhattacharya, B. Banerjee and H. McNairn, "BiophyNet: A Regression Network for Joint Estimation of Plant Area Index 
+# and Wet Biomass From SAR Data," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2020.3008757"
+###################################
 
 import warnings
 warnings.filterwarnings("ignore")
